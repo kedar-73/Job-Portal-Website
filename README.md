@@ -67,3 +67,5 @@ A full-stack job portal application built using the MERN (MongoDB, Express, Reac
     ```bash
     http://localhost:3000
     ```
+
+## Made by-Kedar Singh
